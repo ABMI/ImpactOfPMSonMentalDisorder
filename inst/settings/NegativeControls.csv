@@ -1,0 +1,493 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1368,1369,434165,Abnormal cervical smear,outcome
+1368,1369,436409,Abnormal pupil,outcome
+1368,1369,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1368,1369,4088290,Absence of breast,outcome
+1368,1369,4092879,Absent kidney,outcome
+1368,1369,436634,Acariasis,outcome
+1368,1369,44783954,Acid reflux,outcome
+1368,1369,75911,Acquired hallux valgus,outcome
+1368,1369,137951,Acquired keratoderma,outcome
+1368,1369,77965,Acquired trigger finger,outcome
+1368,1369,376707,Acute conjunctivitis,outcome
+1368,1369,4103640,Amputated foot,outcome
+1368,1369,432595,Amyloidosis,outcome
+1368,1369,73241,Anal and rectal polyp,outcome
+1368,1369,437082,Ankylosing spondylitis,outcome
+1368,1369,77650,Aseptic necrosis of bone,outcome
+1368,1369,378424,Astigmatism,outcome
+1368,1369,374923,Bell's palsy,outcome
+1368,1369,4110709,Benign epithelial neoplasm of skin,outcome
+1368,1369,133655,Burn of forearm,outcome
+1368,1369,73560,Calcaneal spur,outcome
+1368,1369,434327,Cannabis abuse,outcome
+1368,1369,4213540,Cervical somatic dysfunction,outcome
+1368,1369,381581,Chalazion,outcome
+1368,1369,140842,Changes in skin texture,outcome
+1368,1369,438531,Chondromalacia,outcome
+1368,1369,81378,Chondromalacia of patella,outcome
+1368,1369,432303,Cocaine abuse,outcome
+1368,1369,4201390,Colostomy present,outcome
+1368,1369,46269889,Complication due to Crohn's disease,outcome
+1368,1369,134438,Contact dermatitis,outcome
+1368,1369,78619,Contusion of knee,outcome
+1368,1369,201606,Crohn's disease,outcome
+1368,1369,260134,Croup,outcome
+1368,1369,76786,Derangement of knee,outcome
+1368,1369,4115402,Difficulty sleeping,outcome
+1368,1369,443767,Disorder of eye due to diabetes mellitus,outcome
+1368,1369,45757370,Disproportion of reconstructed breast,outcome
+1368,1369,433111,Effects of hunger,outcome
+1368,1369,441589,Endocarditis,outcome
+1368,1369,200775,Endometrial hyperplasia,outcome
+1368,1369,433527,Endometriosis,outcome
+1368,1369,73008,Enthesopathy,outcome
+1368,1369,4249170,Epicondylitis,outcome
+1368,1369,4170770,Epidermoid cyst,outcome
+1368,1369,4345472,Epstein-Barr virus disease,outcome
+1368,1369,4092896,Feces contents abnormal,outcome
+1368,1369,259995,Foreign body in orifice,outcome
+1368,1369,4050747,Fracture of upper limb,outcome
+1368,1369,196456,Gallstone,outcome
+1368,1369,40481632,Ganglion cyst,outcome
+1368,1369,4166231,Genetic predisposition,outcome
+1368,1369,74855,Genital herpes simplex,outcome
+1368,1369,433577,Hammer toe,outcome
+1368,1369,441818,Hemangioma,outcome
+1368,1369,4231770,Hereditary thrombophilia,outcome
+1368,1369,440329,Herpes zoster without complication,outcome
+1368,1369,4012570,High risk sexual behavior,outcome
+1368,1369,4038835,Hodgkin's disease,outcome
+1368,1369,4012934,Homocystinuria,outcome
+1368,1369,441788,Human papilloma virus infection,outcome
+1368,1369,380688,Hypoglycemic coma,outcome
+1368,1369,4254542,Hypopituitarism,outcome
+1368,1369,4201717,Ileostomy present,outcome
+1368,1369,374375,Impacted cerumen,outcome
+1368,1369,140480,Impetigo,outcome
+1368,1369,4344500,Impingement syndrome of shoulder region,outcome
+1368,1369,139099,Ingrowing nail,outcome
+1368,1369,444132,Injury of knee,outcome
+1368,1369,434926,Iridocyclitis,outcome
+1368,1369,196168,Irregular periods,outcome
+1368,1369,75576,Irritable bowel syndrome,outcome
+1368,1369,432593,Kwashiorkor,outcome
+1368,1369,434203,Late effect of contusion,outcome
+1368,1369,438329,Late effect of motor vehicle accident,outcome
+1368,1369,443285,Lesion of cervix,outcome
+1368,1369,195873,Leukorrhea,outcome
+1368,1369,440638,Lyme disease,outcome
+1368,1369,4083487,Macular drusen,outcome
+1368,1369,4156115,Malignant neoplasm of endocrine gland,outcome
+1368,1369,4103703,Melena,outcome
+1368,1369,4134455,Mononeuropathy,outcome
+1368,1369,4209423,Nicotine dependence,outcome
+1368,1369,377572,Noise effects on inner ear,outcome
+1368,1369,136368,Non-toxic multinodular goiter,outcome
+1368,1369,40480893,Nonspecific tuberculin test reaction,outcome
+1368,1369,4215978,Onychomycosis,outcome
+1368,1369,140648,Onychomycosis due to dermatophyte,outcome
+1368,1369,438130,Opioid abuse,outcome
+1368,1369,75354,Osteochondropathy,outcome
+1368,1369,192606,Paraplegia,outcome
+1368,1369,4091513,Passing flatus,outcome
+1368,1369,4112731,Polyp of intestine,outcome
+1368,1369,4202045,Postviral fatigue syndrome,outcome
+1368,1369,373478,Presbyopia,outcome
+1368,1369,46286594,Problem related to lifestyle,outcome
+1368,1369,439790,Psychalgia,outcome
+1368,1369,81634,Ptotic breast,outcome
+1368,1369,253954,Pulmonary tuberculosis,outcome
+1368,1369,4087647,Rectal mass,outcome
+1368,1369,380706,Regular astigmatism,outcome
+1368,1369,438688,Sarcoidosis,outcome
+1368,1369,4169984,Scar,outcome
+1368,1369,141932,Senile hyperkeratosis,outcome
+1368,1369,196236,Septic shock,outcome
+1368,1369,254443,Sjogren's syndrome,outcome
+1368,1369,36713918,Somatic dysfunction of lumbar region,outcome
+1368,1369,443172,"Splinter of face, without major open wound",outcome
+1368,1369,81151,Sprain of ankle,outcome
+1368,1369,72748,Strain of rotator cuff capsule,outcome
+1368,1369,378427,Tear film insufficiency,outcome
+1368,1369,134461,Tietze's disease,outcome
+1368,1369,437264,Tobacco dependence syndrome,outcome
+1368,1369,4234533,Tonsillitis,outcome
+1368,1369,4030042,Toxic goiter,outcome
+1368,1369,81893,Ulcerative colitis,outcome
+1368,1369,194083,Vaginitis and vulvovaginitis,outcome
+1368,1369,140641,Verruca vulgaris,outcome
+1368,1369,380038,Viral conjunctivitis,outcome
+1368,1369,4291005,Viral hepatitis,outcome
+1368,1369,4248870,Visceroptosis,outcome
+1368,1369,4115367,Wrist joint pain,outcome
+1368,1369,440193,Wristdrop,outcome
+1374,1375,434165,Abnormal cervical smear,outcome
+1374,1375,436409,Abnormal pupil,outcome
+1374,1375,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1374,1375,4088290,Absence of breast,outcome
+1374,1375,4092879,Absent kidney,outcome
+1374,1375,436634,Acariasis,outcome
+1374,1375,44783954,Acid reflux,outcome
+1374,1375,75911,Acquired hallux valgus,outcome
+1374,1375,137951,Acquired keratoderma,outcome
+1374,1375,77965,Acquired trigger finger,outcome
+1374,1375,376707,Acute conjunctivitis,outcome
+1374,1375,4103640,Amputated foot,outcome
+1374,1375,432595,Amyloidosis,outcome
+1374,1375,73241,Anal and rectal polyp,outcome
+1374,1375,437082,Ankylosing spondylitis,outcome
+1374,1375,77650,Aseptic necrosis of bone,outcome
+1374,1375,378424,Astigmatism,outcome
+1374,1375,374923,Bell's palsy,outcome
+1374,1375,4110709,Benign epithelial neoplasm of skin,outcome
+1374,1375,133655,Burn of forearm,outcome
+1374,1375,73560,Calcaneal spur,outcome
+1374,1375,434327,Cannabis abuse,outcome
+1374,1375,4213540,Cervical somatic dysfunction,outcome
+1374,1375,381581,Chalazion,outcome
+1374,1375,140842,Changes in skin texture,outcome
+1374,1375,438531,Chondromalacia,outcome
+1374,1375,81378,Chondromalacia of patella,outcome
+1374,1375,432303,Cocaine abuse,outcome
+1374,1375,4201390,Colostomy present,outcome
+1374,1375,46269889,Complication due to Crohn's disease,outcome
+1374,1375,134438,Contact dermatitis,outcome
+1374,1375,78619,Contusion of knee,outcome
+1374,1375,201606,Crohn's disease,outcome
+1374,1375,260134,Croup,outcome
+1374,1375,76786,Derangement of knee,outcome
+1374,1375,4115402,Difficulty sleeping,outcome
+1374,1375,443767,Disorder of eye due to diabetes mellitus,outcome
+1374,1375,45757370,Disproportion of reconstructed breast,outcome
+1374,1375,433111,Effects of hunger,outcome
+1374,1375,441589,Endocarditis,outcome
+1374,1375,200775,Endometrial hyperplasia,outcome
+1374,1375,433527,Endometriosis,outcome
+1374,1375,73008,Enthesopathy,outcome
+1374,1375,4249170,Epicondylitis,outcome
+1374,1375,4170770,Epidermoid cyst,outcome
+1374,1375,4345472,Epstein-Barr virus disease,outcome
+1374,1375,4092896,Feces contents abnormal,outcome
+1374,1375,259995,Foreign body in orifice,outcome
+1374,1375,4050747,Fracture of upper limb,outcome
+1374,1375,196456,Gallstone,outcome
+1374,1375,40481632,Ganglion cyst,outcome
+1374,1375,4166231,Genetic predisposition,outcome
+1374,1375,74855,Genital herpes simplex,outcome
+1374,1375,433577,Hammer toe,outcome
+1374,1375,441818,Hemangioma,outcome
+1374,1375,4231770,Hereditary thrombophilia,outcome
+1374,1375,440329,Herpes zoster without complication,outcome
+1374,1375,4012570,High risk sexual behavior,outcome
+1374,1375,4038835,Hodgkin's disease,outcome
+1374,1375,4012934,Homocystinuria,outcome
+1374,1375,441788,Human papilloma virus infection,outcome
+1374,1375,380688,Hypoglycemic coma,outcome
+1374,1375,4254542,Hypopituitarism,outcome
+1374,1375,4201717,Ileostomy present,outcome
+1374,1375,374375,Impacted cerumen,outcome
+1374,1375,140480,Impetigo,outcome
+1374,1375,4344500,Impingement syndrome of shoulder region,outcome
+1374,1375,139099,Ingrowing nail,outcome
+1374,1375,444132,Injury of knee,outcome
+1374,1375,434926,Iridocyclitis,outcome
+1374,1375,196168,Irregular periods,outcome
+1374,1375,75576,Irritable bowel syndrome,outcome
+1374,1375,432593,Kwashiorkor,outcome
+1374,1375,434203,Late effect of contusion,outcome
+1374,1375,438329,Late effect of motor vehicle accident,outcome
+1374,1375,443285,Lesion of cervix,outcome
+1374,1375,195873,Leukorrhea,outcome
+1374,1375,440638,Lyme disease,outcome
+1374,1375,4083487,Macular drusen,outcome
+1374,1375,4156115,Malignant neoplasm of endocrine gland,outcome
+1374,1375,4103703,Melena,outcome
+1374,1375,4134455,Mononeuropathy,outcome
+1374,1375,4209423,Nicotine dependence,outcome
+1374,1375,377572,Noise effects on inner ear,outcome
+1374,1375,136368,Non-toxic multinodular goiter,outcome
+1374,1375,40480893,Nonspecific tuberculin test reaction,outcome
+1374,1375,4215978,Onychomycosis,outcome
+1374,1375,140648,Onychomycosis due to dermatophyte,outcome
+1374,1375,438130,Opioid abuse,outcome
+1374,1375,75354,Osteochondropathy,outcome
+1374,1375,192606,Paraplegia,outcome
+1374,1375,4091513,Passing flatus,outcome
+1374,1375,4112731,Polyp of intestine,outcome
+1374,1375,4202045,Postviral fatigue syndrome,outcome
+1374,1375,373478,Presbyopia,outcome
+1374,1375,46286594,Problem related to lifestyle,outcome
+1374,1375,439790,Psychalgia,outcome
+1374,1375,81634,Ptotic breast,outcome
+1374,1375,253954,Pulmonary tuberculosis,outcome
+1374,1375,4087647,Rectal mass,outcome
+1374,1375,380706,Regular astigmatism,outcome
+1374,1375,438688,Sarcoidosis,outcome
+1374,1375,4169984,Scar,outcome
+1374,1375,141932,Senile hyperkeratosis,outcome
+1374,1375,196236,Septic shock,outcome
+1374,1375,254443,Sjogren's syndrome,outcome
+1374,1375,36713918,Somatic dysfunction of lumbar region,outcome
+1374,1375,443172,"Splinter of face, without major open wound",outcome
+1374,1375,81151,Sprain of ankle,outcome
+1374,1375,72748,Strain of rotator cuff capsule,outcome
+1374,1375,378427,Tear film insufficiency,outcome
+1374,1375,134461,Tietze's disease,outcome
+1374,1375,437264,Tobacco dependence syndrome,outcome
+1374,1375,4234533,Tonsillitis,outcome
+1374,1375,4030042,Toxic goiter,outcome
+1374,1375,81893,Ulcerative colitis,outcome
+1374,1375,194083,Vaginitis and vulvovaginitis,outcome
+1374,1375,140641,Verruca vulgaris,outcome
+1374,1375,380038,Viral conjunctivitis,outcome
+1374,1375,4291005,Viral hepatitis,outcome
+1374,1375,4248870,Visceroptosis,outcome
+1374,1375,4115367,Wrist joint pain,outcome
+1374,1375,440193,Wristdrop,outcome
+1376,1377,434165,Abnormal cervical smear,outcome
+1376,1377,436409,Abnormal pupil,outcome
+1376,1377,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1376,1377,4088290,Absence of breast,outcome
+1376,1377,4092879,Absent kidney,outcome
+1376,1377,436634,Acariasis,outcome
+1376,1377,44783954,Acid reflux,outcome
+1376,1377,75911,Acquired hallux valgus,outcome
+1376,1377,137951,Acquired keratoderma,outcome
+1376,1377,77965,Acquired trigger finger,outcome
+1376,1377,376707,Acute conjunctivitis,outcome
+1376,1377,4103640,Amputated foot,outcome
+1376,1377,432595,Amyloidosis,outcome
+1376,1377,73241,Anal and rectal polyp,outcome
+1376,1377,437082,Ankylosing spondylitis,outcome
+1376,1377,77650,Aseptic necrosis of bone,outcome
+1376,1377,378424,Astigmatism,outcome
+1376,1377,374923,Bell's palsy,outcome
+1376,1377,4110709,Benign epithelial neoplasm of skin,outcome
+1376,1377,133655,Burn of forearm,outcome
+1376,1377,73560,Calcaneal spur,outcome
+1376,1377,434327,Cannabis abuse,outcome
+1376,1377,4213540,Cervical somatic dysfunction,outcome
+1376,1377,381581,Chalazion,outcome
+1376,1377,140842,Changes in skin texture,outcome
+1376,1377,438531,Chondromalacia,outcome
+1376,1377,81378,Chondromalacia of patella,outcome
+1376,1377,432303,Cocaine abuse,outcome
+1376,1377,4201390,Colostomy present,outcome
+1376,1377,46269889,Complication due to Crohn's disease,outcome
+1376,1377,134438,Contact dermatitis,outcome
+1376,1377,78619,Contusion of knee,outcome
+1376,1377,201606,Crohn's disease,outcome
+1376,1377,260134,Croup,outcome
+1376,1377,76786,Derangement of knee,outcome
+1376,1377,4115402,Difficulty sleeping,outcome
+1376,1377,443767,Disorder of eye due to diabetes mellitus,outcome
+1376,1377,45757370,Disproportion of reconstructed breast,outcome
+1376,1377,433111,Effects of hunger,outcome
+1376,1377,441589,Endocarditis,outcome
+1376,1377,200775,Endometrial hyperplasia,outcome
+1376,1377,433527,Endometriosis,outcome
+1376,1377,73008,Enthesopathy,outcome
+1376,1377,4249170,Epicondylitis,outcome
+1376,1377,4170770,Epidermoid cyst,outcome
+1376,1377,4345472,Epstein-Barr virus disease,outcome
+1376,1377,4092896,Feces contents abnormal,outcome
+1376,1377,259995,Foreign body in orifice,outcome
+1376,1377,4050747,Fracture of upper limb,outcome
+1376,1377,196456,Gallstone,outcome
+1376,1377,40481632,Ganglion cyst,outcome
+1376,1377,4166231,Genetic predisposition,outcome
+1376,1377,74855,Genital herpes simplex,outcome
+1376,1377,433577,Hammer toe,outcome
+1376,1377,441818,Hemangioma,outcome
+1376,1377,4231770,Hereditary thrombophilia,outcome
+1376,1377,440329,Herpes zoster without complication,outcome
+1376,1377,4012570,High risk sexual behavior,outcome
+1376,1377,4038835,Hodgkin's disease,outcome
+1376,1377,4012934,Homocystinuria,outcome
+1376,1377,441788,Human papilloma virus infection,outcome
+1376,1377,380688,Hypoglycemic coma,outcome
+1376,1377,4254542,Hypopituitarism,outcome
+1376,1377,4201717,Ileostomy present,outcome
+1376,1377,374375,Impacted cerumen,outcome
+1376,1377,140480,Impetigo,outcome
+1376,1377,4344500,Impingement syndrome of shoulder region,outcome
+1376,1377,139099,Ingrowing nail,outcome
+1376,1377,444132,Injury of knee,outcome
+1376,1377,434926,Iridocyclitis,outcome
+1376,1377,196168,Irregular periods,outcome
+1376,1377,75576,Irritable bowel syndrome,outcome
+1376,1377,432593,Kwashiorkor,outcome
+1376,1377,434203,Late effect of contusion,outcome
+1376,1377,438329,Late effect of motor vehicle accident,outcome
+1376,1377,443285,Lesion of cervix,outcome
+1376,1377,195873,Leukorrhea,outcome
+1376,1377,440638,Lyme disease,outcome
+1376,1377,4083487,Macular drusen,outcome
+1376,1377,4156115,Malignant neoplasm of endocrine gland,outcome
+1376,1377,4103703,Melena,outcome
+1376,1377,4134455,Mononeuropathy,outcome
+1376,1377,4209423,Nicotine dependence,outcome
+1376,1377,377572,Noise effects on inner ear,outcome
+1376,1377,136368,Non-toxic multinodular goiter,outcome
+1376,1377,40480893,Nonspecific tuberculin test reaction,outcome
+1376,1377,4215978,Onychomycosis,outcome
+1376,1377,140648,Onychomycosis due to dermatophyte,outcome
+1376,1377,438130,Opioid abuse,outcome
+1376,1377,75354,Osteochondropathy,outcome
+1376,1377,192606,Paraplegia,outcome
+1376,1377,4091513,Passing flatus,outcome
+1376,1377,4112731,Polyp of intestine,outcome
+1376,1377,4202045,Postviral fatigue syndrome,outcome
+1376,1377,373478,Presbyopia,outcome
+1376,1377,46286594,Problem related to lifestyle,outcome
+1376,1377,439790,Psychalgia,outcome
+1376,1377,81634,Ptotic breast,outcome
+1376,1377,253954,Pulmonary tuberculosis,outcome
+1376,1377,4087647,Rectal mass,outcome
+1376,1377,380706,Regular astigmatism,outcome
+1376,1377,438688,Sarcoidosis,outcome
+1376,1377,4169984,Scar,outcome
+1376,1377,141932,Senile hyperkeratosis,outcome
+1376,1377,196236,Septic shock,outcome
+1376,1377,254443,Sjogren's syndrome,outcome
+1376,1377,36713918,Somatic dysfunction of lumbar region,outcome
+1376,1377,443172,"Splinter of face, without major open wound",outcome
+1376,1377,81151,Sprain of ankle,outcome
+1376,1377,72748,Strain of rotator cuff capsule,outcome
+1376,1377,378427,Tear film insufficiency,outcome
+1376,1377,134461,Tietze's disease,outcome
+1376,1377,437264,Tobacco dependence syndrome,outcome
+1376,1377,4234533,Tonsillitis,outcome
+1376,1377,4030042,Toxic goiter,outcome
+1376,1377,81893,Ulcerative colitis,outcome
+1376,1377,194083,Vaginitis and vulvovaginitis,outcome
+1376,1377,140641,Verruca vulgaris,outcome
+1376,1377,380038,Viral conjunctivitis,outcome
+1376,1377,4291005,Viral hepatitis,outcome
+1376,1377,4248870,Visceroptosis,outcome
+1376,1377,4115367,Wrist joint pain,outcome
+1376,1377,440193,Wristdrop,outcome
+1378,1379,434165,Abnormal cervical smear,outcome
+1378,1379,436409,Abnormal pupil,outcome
+1378,1379,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1378,1379,4088290,Absence of breast,outcome
+1378,1379,4092879,Absent kidney,outcome
+1378,1379,436634,Acariasis,outcome
+1378,1379,44783954,Acid reflux,outcome
+1378,1379,75911,Acquired hallux valgus,outcome
+1378,1379,137951,Acquired keratoderma,outcome
+1378,1379,77965,Acquired trigger finger,outcome
+1378,1379,376707,Acute conjunctivitis,outcome
+1378,1379,4103640,Amputated foot,outcome
+1378,1379,432595,Amyloidosis,outcome
+1378,1379,73241,Anal and rectal polyp,outcome
+1378,1379,437082,Ankylosing spondylitis,outcome
+1378,1379,77650,Aseptic necrosis of bone,outcome
+1378,1379,378424,Astigmatism,outcome
+1378,1379,374923,Bell's palsy,outcome
+1378,1379,4110709,Benign epithelial neoplasm of skin,outcome
+1378,1379,133655,Burn of forearm,outcome
+1378,1379,73560,Calcaneal spur,outcome
+1378,1379,434327,Cannabis abuse,outcome
+1378,1379,4213540,Cervical somatic dysfunction,outcome
+1378,1379,381581,Chalazion,outcome
+1378,1379,140842,Changes in skin texture,outcome
+1378,1379,438531,Chondromalacia,outcome
+1378,1379,81378,Chondromalacia of patella,outcome
+1378,1379,432303,Cocaine abuse,outcome
+1378,1379,4201390,Colostomy present,outcome
+1378,1379,46269889,Complication due to Crohn's disease,outcome
+1378,1379,134438,Contact dermatitis,outcome
+1378,1379,78619,Contusion of knee,outcome
+1378,1379,201606,Crohn's disease,outcome
+1378,1379,260134,Croup,outcome
+1378,1379,76786,Derangement of knee,outcome
+1378,1379,4115402,Difficulty sleeping,outcome
+1378,1379,443767,Disorder of eye due to diabetes mellitus,outcome
+1378,1379,45757370,Disproportion of reconstructed breast,outcome
+1378,1379,433111,Effects of hunger,outcome
+1378,1379,441589,Endocarditis,outcome
+1378,1379,200775,Endometrial hyperplasia,outcome
+1378,1379,433527,Endometriosis,outcome
+1378,1379,73008,Enthesopathy,outcome
+1378,1379,4249170,Epicondylitis,outcome
+1378,1379,4170770,Epidermoid cyst,outcome
+1378,1379,4345472,Epstein-Barr virus disease,outcome
+1378,1379,4092896,Feces contents abnormal,outcome
+1378,1379,259995,Foreign body in orifice,outcome
+1378,1379,4050747,Fracture of upper limb,outcome
+1378,1379,196456,Gallstone,outcome
+1378,1379,40481632,Ganglion cyst,outcome
+1378,1379,4166231,Genetic predisposition,outcome
+1378,1379,74855,Genital herpes simplex,outcome
+1378,1379,433577,Hammer toe,outcome
+1378,1379,441818,Hemangioma,outcome
+1378,1379,4231770,Hereditary thrombophilia,outcome
+1378,1379,440329,Herpes zoster without complication,outcome
+1378,1379,4012570,High risk sexual behavior,outcome
+1378,1379,4038835,Hodgkin's disease,outcome
+1378,1379,4012934,Homocystinuria,outcome
+1378,1379,441788,Human papilloma virus infection,outcome
+1378,1379,380688,Hypoglycemic coma,outcome
+1378,1379,4254542,Hypopituitarism,outcome
+1378,1379,4201717,Ileostomy present,outcome
+1378,1379,374375,Impacted cerumen,outcome
+1378,1379,140480,Impetigo,outcome
+1378,1379,4344500,Impingement syndrome of shoulder region,outcome
+1378,1379,139099,Ingrowing nail,outcome
+1378,1379,444132,Injury of knee,outcome
+1378,1379,434926,Iridocyclitis,outcome
+1378,1379,196168,Irregular periods,outcome
+1378,1379,75576,Irritable bowel syndrome,outcome
+1378,1379,432593,Kwashiorkor,outcome
+1378,1379,434203,Late effect of contusion,outcome
+1378,1379,438329,Late effect of motor vehicle accident,outcome
+1378,1379,443285,Lesion of cervix,outcome
+1378,1379,195873,Leukorrhea,outcome
+1378,1379,440638,Lyme disease,outcome
+1378,1379,4083487,Macular drusen,outcome
+1378,1379,4156115,Malignant neoplasm of endocrine gland,outcome
+1378,1379,4103703,Melena,outcome
+1378,1379,4134455,Mononeuropathy,outcome
+1378,1379,4209423,Nicotine dependence,outcome
+1378,1379,377572,Noise effects on inner ear,outcome
+1378,1379,136368,Non-toxic multinodular goiter,outcome
+1378,1379,40480893,Nonspecific tuberculin test reaction,outcome
+1378,1379,4215978,Onychomycosis,outcome
+1378,1379,140648,Onychomycosis due to dermatophyte,outcome
+1378,1379,438130,Opioid abuse,outcome
+1378,1379,75354,Osteochondropathy,outcome
+1378,1379,192606,Paraplegia,outcome
+1378,1379,4091513,Passing flatus,outcome
+1378,1379,4112731,Polyp of intestine,outcome
+1378,1379,4202045,Postviral fatigue syndrome,outcome
+1378,1379,373478,Presbyopia,outcome
+1378,1379,46286594,Problem related to lifestyle,outcome
+1378,1379,439790,Psychalgia,outcome
+1378,1379,81634,Ptotic breast,outcome
+1378,1379,253954,Pulmonary tuberculosis,outcome
+1378,1379,4087647,Rectal mass,outcome
+1378,1379,380706,Regular astigmatism,outcome
+1378,1379,438688,Sarcoidosis,outcome
+1378,1379,4169984,Scar,outcome
+1378,1379,141932,Senile hyperkeratosis,outcome
+1378,1379,196236,Septic shock,outcome
+1378,1379,254443,Sjogren's syndrome,outcome
+1378,1379,36713918,Somatic dysfunction of lumbar region,outcome
+1378,1379,443172,"Splinter of face, without major open wound",outcome
+1378,1379,81151,Sprain of ankle,outcome
+1378,1379,72748,Strain of rotator cuff capsule,outcome
+1378,1379,378427,Tear film insufficiency,outcome
+1378,1379,134461,Tietze's disease,outcome
+1378,1379,437264,Tobacco dependence syndrome,outcome
+1378,1379,4234533,Tonsillitis,outcome
+1378,1379,4030042,Toxic goiter,outcome
+1378,1379,81893,Ulcerative colitis,outcome
+1378,1379,194083,Vaginitis and vulvovaginitis,outcome
+1378,1379,140641,Verruca vulgaris,outcome
+1378,1379,380038,Viral conjunctivitis,outcome
+1378,1379,4291005,Viral hepatitis,outcome
+1378,1379,4248870,Visceroptosis,outcome
+1378,1379,4115367,Wrist joint pain,outcome
+1378,1379,440193,Wristdrop,outcome
